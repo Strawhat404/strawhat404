@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello I'm Yoseph, I write a code language only machines truly understand, yet in it, I build things for humans.
 
 🔭 I’m currently working on Beacon Proximity smart wearable devices<br><br>🌱 I’m currently learning Ruby on Rails,Springboot<br><br>👯 You can collab with me on Multithreaded TCP Driver<br><br>🤝 I’m looking for help with Habyssinica Telegram bot<br><br>👨‍💻 All of my projects are available at https://portfolio-yoseph.vercel.app/<br><br>📝 I regularly write articles on https://www.linkedin.com/in/yosephtesfaye/<br><br>💬 Ask me about Django,Python,Aiogram,React js,<br><br>📫 How to reach me yosephtesfaye27@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1xaSBBdDAe73OdYcbPnDQHWXmZZdlnkHa/view?usp=drive_link<br><br>⚡ Fun fact My code runs on logic, but I run on coffee. If you ever see a bug in my code, just know my coffee cup was probably empty at the time. 🚀
 
