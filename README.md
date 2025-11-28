@@ -12,24 +12,24 @@
 
 ---
 
-## 🔭 **What I'm Building**
-- Beacon Proximity smart wearable systems  
-- Enterprise-grade Django backends  
-- High-performance TCP multithreaded drivers  
-- AI-powered tools (Habyssinica bot, recommendation engines, tourism AI)
+## 🔭 **I am building**
+- Habyssinica telegram tourism bot  
+- Beacon Smart wearables
+- Multithreaded TCP drivers  
+- 
 
 ---
 
-## 🌱 **What I'm Learning**
+## 🌱 ** I'm Learning**
 - Ruby on Rails  
 - Spring Boot  
 - Advanced backend scaling patterns  
 
 ---
 
-## 🤝 **Collaborations & Help Wanted**
-- Open to collab on **multithreaded TCP driver**, AI, backend tools  
-- Looking for contributors for **Habyssinica Telegram bot**
+## 🤝 **Collaborations **
+- Open to collab on **multithreaded TCP driver**
+- Looking for contributors for **Trustlink**
 
 ---
 
