@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Yoseph  — Backend Engineer | AI Builder | Systems Enthusiast</h1>
+<h1 align="center">Yoseph  FullStack Developer| Backend Engineer | CyberSecurity Analyst | Hashgrapher</h1>
 <p align="center">I write code in languages only machines truly understand — yet everything I build is for humans.</p>
 
 <br>
