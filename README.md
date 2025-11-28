@@ -6,7 +6,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;Django+Developer;React+Lover;Beacon+Proximity+Systems+Engineer;AI+and+Automation+Builder;Always+Building+Something+New..." />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;CyberSecurity+Analyst;Fullstack+Developer;Beacon+Proximity+Systems+Engineer;Hashgrapher;Always+Building+Something+New..." />
 </p>
 
 ---
