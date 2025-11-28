@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">🦾 Yoseph "Pirate" — Backend Engineer | AI Builder | Systems Enthusiast</h1>
+<h1 align="center">Yoseph  — Backend Engineer | AI Builder | Systems Enthusiast</h1>
 <p align="center">I write code in languages only machines truly understand — yet everything I build is for humans.</p>
 
 <br>
@@ -62,7 +62,6 @@ just know my **coffee cup was empty** at that exact moment.
 # 💻 **Tech Stack**
 
 ### 🚀 Languages, Frameworks & Tools  
-*(Fully colored, not plain text!)*
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,postgres,react,html,css,js,ts,nodejs,express,nextjs,tailwind,git,github,postgresql,mysql,sqlite,redis,docker,kubernetes,aws,linux,nginx,graphql,fastapi,flask,postman,cpp,java,rust,php,bash" />
@@ -72,8 +71,6 @@ just know my **coffee cup was empty** at that exact moment.
 <p>
   <img src="https://skillicons.dev/icons?i=cloudflare,vercel,supabase,firebase,heroku,webpack,vite,jquery,linux,raspberrypi,redux" />
 </p>
-
-> If you want, I can also break these into categories (Backend / Frontend / DevOps / Cloud / AI).
 
 ---
 
