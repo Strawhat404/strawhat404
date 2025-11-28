@@ -25,7 +25,7 @@ Django, Python, Aiogram, React, real-time systems, API design
 - Email: [yosephtesfaye27@gmail.com](mailto:yosephtesfaye27@gmail.com)  
 - Portfolio: [https://portfolio-yoseph.vercel.app/](https://portfolio-yoseph.vercel.app/)  
 - LinkedIn Articles: [https://www.linkedin.com/in/yosephtesfaye/](https://www.linkedin.com/in/yosephtesfaye/)  
-- CV: [Download PDF](https://drive.google.com/file/d/1xaSBBdDAe73OdYcbPnDQHWXmZZdlnkHa/view?usp=drive_link)  
+- CV: [Download PDF](https://drive.google.com/file/d/1xaSBBdDAe73OdYcbPnDQHWXmZZdlnkHa/view?usp=drive_link)
 
 ⚡ **Fun fact:** My code runs on logic, but I run on coffee ☕. Bugs appear when my cup is empty 🚀
 
@@ -49,20 +49,20 @@ Django, Python, Aiogram, React, real-time systems, API design
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=strawhat404&theme=github_dark&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=strawhat404&theme=github_dark&layout=compact)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=strawhat404&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Strawhat404&theme=github_dark&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Strawhat404&theme=github_dark&layout=compact)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Strawhat404&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=strawhat404&theme=radical&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Strawhat404&theme=radical&no-bg=true)
 
 ---
 
 ## 🔝 Top Contributed Repos
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=strawhat404&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Strawhat404&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=strawhat404&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Strawhat404&icon=0&color=0)](https://visitcount.itsvg.in)
