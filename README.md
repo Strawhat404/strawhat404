@@ -1,53 +1,51 @@
 <!-- Header -->
-<h1 align="center">Hello Yoseph Here!
-<h3 align="center">FullStack Developer| Backend Engineer | CyberSecurity Analyst | Hashgrapher</h3>
-<p align="center">I write code in languages only machines truly understand — yet everything I build is for humans.</p>
+<h1 align="center">Hello Yoseph Here!</h1>
+<h3 align="center"><code>FullStack Developer | Backend Engineer | CyberSecurity Analyst | Hashgrapher</code></h3>
+<p align="center"><code>I write code in languages only machines truly understand — yet everything I build is for humans.</code></p>
 
 <br>
 
-<!-- Banner -->
+<!-- Banner: Font updated to JetBrains Mono to match screenshot -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;CyberSecurity+Analyst;Fullstack+Developer;Beacon+Proximity+Systems+Engineer;Hashgrapher;Always+Building+Something+New..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Backend+Engineer;CyberSecurity+Analyst;Fullstack+Developer;Beacon+Proximity+Systems+Engineer;Hashgrapher;Always+Building+Something+New..." />
 </p>
 
 ---
 
 ## 🔭 **I am building**
-- Habyssinica telegram tourism bot  
-- Beacon Smart wearables
-- Multithreaded TCP drivers  
-- 
+- <code>Habyssinica telegram tourism bot</code>
+- <code>Beacon Smart wearables</code>
+- <code>Multithreaded TCP drivers</code>
 
 ---
 
-## 🌱 ** I'm Learning**
-- Ruby on Rails  
-- Spring Boot  
-- Advanced backend scaling patterns  
+## 🌱 **I'm Learning**
+- <code>Ruby on Rails</code>
+- <code>Spring Boot</code>
+- <code>Advanced backend scaling patterns</code>
 
 ---
 
-## 🤝 **Collaborations **
-- Open to collab on **multithreaded TCP driver**
-- Looking for contributors for **Trustlink**
+## 🤝 **Collaborations**
+- <code>Open to collab on <b>multithreaded TCP driver</b></code>
+- <code>Looking for contributors for <b>Trustlink</b></code>
 
 ---
 
 ## 🌍 **Portfolio & Writing**
-- 🌐 Portfolio: https://portfolio-yoseph.vercel.app  
-- ✍️ Articles: https://www.linkedin.com/in/yosephtesfaye  
+- 🌐 <code>Portfolio: https://portfolio-yoseph.vercel.app</code>
+- ✍️ <code>Articles: https://www.linkedin.com/in/yosephtesfaye</code>
 
 ---
 
 ## 📬 **Contact**
-**Email:** yosephtesfaye27@gmail.com  
-**Resume:** https://drive.google.com/file/d/1xaSBBdDAe73OdYcbPnDQHWXmZZdlnkHa/view  
+<code><b>Email:</b> yosephtesfaye27@gmail.com</code><br>
+<code><b>Resume:</b> <a href="https://drive.google.com/file/d/1xaSBBdDAe73OdYcbPnDQHWXmZZdlnkHa/view">View Resume</a></code>
 
 ---
 
 # ⚡ **Fun Fact**
-If you ever see a bug in my code…  
-just know my **coffee cup was empty** at that exact moment.
+<code>If you ever see a bug in my code… just know my <b>coffee cup was empty</b> at that exact moment.</code>
 
 ---
 
