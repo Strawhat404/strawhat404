@@ -12,17 +12,16 @@
 
 ---
 
-## 🔭 **I am building**
+##  **just playing a little with**
 - <code>Habyssinica telegram tourism bot</code>
 - <code>Beacon Smart wearables</code>
 - <code>Multithreaded TCP drivers</code>
 
 ---
 
-## 🌱 **I'm Learning**
+##  **Stepping foot on **
 - <code>Ruby on Rails</code>
 - <code>Spring Boot</code>
-- <code>Advanced backend scaling patterns</code>
 
 ---
 
