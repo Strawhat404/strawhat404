@@ -19,7 +19,7 @@
 
 ---
 
-##  **Stepping foot on **
+## Stepping foot on 
 - <code>Ruby on Rails</code>
 - <code>Spring Boot</code>
 
