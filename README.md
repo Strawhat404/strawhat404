@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hello Yoseph Here!</h1>
-<h3 align="center"><code>FullStack Developer | Backend Engineer | CyberSecurity Analyst | Hashgrapher</code></h3>
+<h3 align="center"><code>Backend Heavy FullStack Developer | CyberSecurity Analyst | Hashgrapher</code></h3>
 <p align="center"><code>I write code in languages only machines truly understand — yet everything I build is for humans.</code></p>
 
 <br>
