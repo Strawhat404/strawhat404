@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&pause=100000&color=3B571D&background=00000000&center=true&vCenter=true&width=700&height=90&lines=YOSEPH+TESFAYE&repeat=false" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=50&pause=100000&color=3B571D&background=00000000&center=true&vCenter=true&width=700&height=90&lines=YOSEPH+TESFAYE&repeat=false" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=18&pause=100000&color=7CB342&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Backend+Heavy+%E2%80%A2+CyberSecurity+%E2%80%A2+Hashgrapher&repeat=false" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=18&pause=100000&color=7CB342&background=00000000&center=true&vCenter=true&width=700&height=40&lines=Backend+Heavy+%E2%80%A2+CyberSecurity+%E2%80%A2+Hashgrapher&repeat=false" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=24&duration=2500&pause=800&color=7CB342&background=00000000&center=true&vCenter=true&width=800&height=60&lines=Backend+Engineer;CyberSecurity+Analyst;Fullstack+Developer;Hashgrapher;Always+Building+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=24&duration=2500&pause=800&color=7CB342&background=00000000&center=true&vCenter=true&width=800&height=60&lines=Backend+Engineer;CyberSecurity+Analyst;Fullstack+Developer;Hashgrapher;Always+Building+Something+New" />
 
 <br>
 
